@@ -21,9 +21,13 @@ Guião de como preencher o formulário de IRS.
 
 1.9 - Confirmar IBAN e associar (ou não) o IBAN ao NIF
 
-1.10 - Se te sentires generosx podes dar 0.5% do valor do IRS a uma instituição à tua escolha
+1.10 - 1ª declaração do ano
 
-1.11 - Nada a fazer aqui!
+1.11 - Se te sentires generosx podes dar 0.5% do valor do IRS a uma instituição à tua escolha (basta preencher o tipo de instituição, o NIF e selecionar a opção de IRS)
+
+1.12 - Não existe!
+
+1.13 - Nada a fazer aqui!
 
 2 - Precorrer todos
 ## Anexo H
