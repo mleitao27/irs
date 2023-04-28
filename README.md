@@ -1,5 +1,7 @@
 # irs
+
 Guião de como preencher o formulário de IRS.
+
 ## Declaração base
 1 - Obter a declaração pré-preenchidda e na folha de rosto confirmar
 
@@ -29,5 +31,16 @@ Guião de como preencher o formulário de IRS.
 
 1.13 - Nada a fazer aqui!
 
-2 - Precorrer todos
+2 - Validar e simular
+
+## Anexo A
+Apenas é necessário confirmar:
+
+1 - O ano dos rendimentos
+
+2 - A identificação do sujeito passivo
+
+3 - Se aparecem os rendimentos no quadro A do separador 4
+
 ## Anexo H
+Depois de preenchida a folha de rosto e feita a simulação pode ser adicionado o Anexo H. Na secção relativa às "Deduções à Coleta" deste anexo podem ser adicionadas no quadro C1 as despesas despesas do agregado familiar. Validar de novo e simular, caso o valor não tenha sido alterado, remover anexo.
