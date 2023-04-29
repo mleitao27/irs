@@ -43,10 +43,16 @@ Apenas é necessário confirmar:
 3 - Se aparecem os rendimentos no quadro A do separador 4
 
 ## Anexo H
-Depois de preenchida a folha de rosto e feita a simulação pode ser adicionado o Anexo H. Na secção relativa às "Deduções à Coleta" deste anexo podem ser adicionadas no quadro C1 as despesas despesas do agregado familiar. Validar de novo e simular, caso o valor não tenha sido alterado, remover anexo.
+Depois de preenchida a folha de rosto e feita a simulação pode ser adicionado o Anexo H.
+
+1 - Ir para secção relativa às "Deduções à Coleta" deste anexo
+
+2 - Adicionar no quadro C1 as despesas despesas do agregado familiar
+
+3 - Validar de novo e simular, caso o valor não tenha sido alterado, remover anexo.
 
 ## Anexo E
-O anexo E destina-se à declaração de investimentos feitos em entidades portuguesas. Para tal depois de confirmar o ano dos rendimentos e a identificação do sujeito passivo devemos:
+O anexo E destina-se à declaração de investimentos feitos em entidades portuguesas. A declaração destes rendimentos não é obrigatória uma vez que já foi retido o imposto na fonte mas desde que não provoque uma subida de escalão pode ser vantajoso englobar os juros recebidos com os restantes rendimentos. Para tal depois de confirmar o ano dos rendimentos e a identificação do sujeito passivo devemos:
 
 1 - Ir para o separador 4
 
@@ -61,6 +67,12 @@ O anexo E destina-se à declaração de investimentos feitos em entidades portug
 2.4 - Preencher o Campo "Titular" com o nosso NIF
 
 2.5 - No "Rendimento" preencher o somatório dos juros recebidos de cada entidade
+
+3 - Escolher a opção de englobamento
+
+4 - Voltar a validar e simular
+
+5 - Caso o valor tenha diminuido, remover o anexo
 
 ## Anexo J
 O anexo J destina-se à declaração de investimentos feitos em entidades não portuguesas. Para tal depois de confirmar o ano dos rendimentos e a identificação do sujeito passivo devemos:
