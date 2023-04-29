@@ -46,6 +46,21 @@ Apenas é necessário confirmar:
 Depois de preenchida a folha de rosto e feita a simulação pode ser adicionado o Anexo H. Na secção relativa às "Deduções à Coleta" deste anexo podem ser adicionadas no quadro C1 as despesas despesas do agregado familiar. Validar de novo e simular, caso o valor não tenha sido alterado, remover anexo.
 
 ## Anexo E
+O anexo E destina-se à declaração de investimentos feitos em entidades portuguesas. Para tal depois de confirmar o ano dos rendimentos e a identificação do sujeito passivo devemos:
+
+1 - Ir para o separador 4
+
+2 - Adicionar no quadro A uma linha por cada entidade devedora
+
+2.1 - Preencher o número da linha começando no 401, 402, etc.
+
+2.2 - Escolher o "Código Rendimento" E20 (Juros e outras formas de remuneração referidos no artigo 5º do CIRS, nomeadamente, juros de mútuos, depósitos, títulos de dívida pública, obrigações, suprimentos, adiantamentos de capital aos sócios ou por não levantamento de lucros, bem como o ganho de swaps de taxa de juros ou quaisquer rendimentos de aplicação de capitais)
+
+2.3 - Inserir o NIF da entitade devedora (pagadora na declaração da Goparity)
+
+2.4 - Preencher o Campo "Titular" com o nosso NIF
+
+2.5 - No "Rendimento" preencher o somatório dos juros recebidos de cada entidade
 
 ## Anexo J
 O anexo J destina-se à declaração de investimentos feitos em entidades não portuguesas. Para tal depois de confirmar o ano dos rendimentos e a identificação do sujeito passivo devemos:
